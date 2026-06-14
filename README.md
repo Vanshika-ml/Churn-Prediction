@@ -2,6 +2,10 @@
 
 Machine Learning project for predicting customer churn.
 
+## Live Demo
+
+🔗https://churn-prediction-gugacjpsuxe9hqwyoeo2tt.streamlit.app/
+
 ## Features
 
 - Customer Churn Prediction
